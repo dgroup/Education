@@ -17,6 +17,6 @@
 
 ## Maven
 - [Tutorial](http://www.tutorialspoint.com/maven/maven_tutorial.pdf), [Maven by example](http://books.sonatype.com/mvnex-book/pdf/mvnex-pdf.pdf)
-- [От велосипеда к Maven](http://habrahabr.ru/post/131164/), [Apache Maven — основы](http://habrahabr.ru/post/77382/), [Takari: Maven на стероидах](http://habrahabr.ru/post/266011/)
+- [РћС‚ РІРµР»РѕСЃРёРїРµРґР° Рє Maven](http://habrahabr.ru/post/131164/), [Apache Maven вЂ” РѕСЃРЅРѕРІС‹](http://habrahabr.ru/post/77382/), [Takari: Maven РЅР° СЃС‚РµСЂРѕРёРґР°С…](http://habrahabr.ru/post/266011/)
 - [Common problems and pitfalls](http://www.radcortez.com/maven-common-problems-and-pitfalls/)
 - [PMD](https://maven.apache.org/plugins/maven-pmd-plugin/usage.html), [maven-pmd-plugin (RU)](http://www.apache-maven.ru/plugins/maven-pmd-plugin.html)
