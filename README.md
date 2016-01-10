@@ -1,5 +1,3 @@
-# Interesting materials, links
-
 ## GitHub
 - [GitHub secrets](https://github.com/tiimgreen/github-cheat-sheet).
 - [Git.io](http://git.io/) is a simple URL shortener for GitHub.
@@ -16,3 +14,9 @@
 ## Mind Map
 - [www.mindmeister.com](https://www.mindmeister.com/?r=224093) on-line resource
 - [Top 5 desktop resources](http://lifehacker.com/five-best-mind-mapping-tools-476534555)
+
+## Maven
+- [Tutorial](http://www.tutorialspoint.com/maven/maven_tutorial.pdf), [Maven by example](http://books.sonatype.com/mvnex-book/pdf/mvnex-pdf.pdf)
+- [ќт велосипеда к Maven](http://habrahabr.ru/post/131164/), [Apache Maven Ч основы](http://habrahabr.ru/post/77382/), [Takari: Maven на стероидах](http://habrahabr.ru/post/266011/)
+- [Common problems and pitfalls](http://www.radcortez.com/maven-common-problems-and-pitfalls/)
+- [PMD](https://maven.apache.org/plugins/maven-pmd-plugin/usage.html), [maven-pmd-plugin (RU)](http://www.apache-maven.ru/plugins/maven-pmd-plugin.html)
